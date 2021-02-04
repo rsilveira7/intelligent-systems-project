@@ -1,0 +1,85 @@
+####################################
+Logistic Regression - Metrics for categories
+####################################
+Category: Decoração - ACC:0.8960084033613446
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         0
+           1       0.00      0.00      0.00         0
+           2       1.00      0.90      0.95      2856
+           3       0.00      0.00      0.00         0
+           4       0.00      0.00      0.00         0
+           5       0.00      0.00      0.00         0
+
+    accuracy                           0.90      2856
+   macro avg       0.17      0.15      0.16      2856
+weighted avg       1.00      0.90      0.95      2856
+
+Category: Papel e Cia - ACC:0.6148068669527897
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         0
+           1       0.00      0.00      0.00         0
+           2       0.00      0.00      0.00         0
+           3       0.00      0.00      0.00         0
+           4       0.00      0.00      0.00         0
+           5       1.00      0.61      0.76       932
+
+    accuracy                           0.61       932
+   macro avg       0.17      0.10      0.13       932
+weighted avg       1.00      0.61      0.76       932
+
+Category: Outros - ACC:0.5149863760217984
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         0
+           1       0.00      0.00      0.00         0
+           2       0.00      0.00      0.00         0
+           3       0.00      0.00      0.00         0
+           4       1.00      0.51      0.68       367
+           5       0.00      0.00      0.00         0
+
+    accuracy                           0.51       367
+   macro avg       0.17      0.09      0.11       367
+weighted avg       1.00      0.51      0.68       367
+
+Category: Bebê - ACC:0.8226018396846255
+              precision    recall  f1-score   support
+
+           0       1.00      0.82      0.90      2283
+           1       0.00      0.00      0.00         0
+           2       0.00      0.00      0.00         0
+           3       0.00      0.00      0.00         0
+           4       0.00      0.00      0.00         0
+           5       0.00      0.00      0.00         0
+
+    accuracy                           0.82      2283
+   macro avg       0.17      0.14      0.15      2283
+weighted avg       1.00      0.82      0.90      2283
+
+Category: Lembrancinhas - ACC:0.9479758828596038
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         0
+           1       0.00      0.00      0.00         0
+           2       0.00      0.00      0.00         0
+           3       1.00      0.95      0.97      5805
+           4       0.00      0.00      0.00         0
+           5       0.00      0.00      0.00         0
+
+    accuracy                           0.95      5805
+   macro avg       0.17      0.16      0.16      5805
+weighted avg       1.00      0.95      0.97      5805
+
+Category: Bijuterias e Jóias - ACC:0.8754208754208754
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         0
+           1       1.00      0.88      0.93       297
+           2       0.00      0.00      0.00         0
+           3       0.00      0.00      0.00         0
+
+    accuracy                           0.88       297
+   macro avg       0.25      0.22      0.23       297
+weighted avg       1.00      0.88      0.93       297
+
